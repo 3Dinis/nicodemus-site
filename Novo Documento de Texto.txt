@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Discord Bible Bot - Terms of Service & Privacy Policy</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+      line-height: 1.6;
+      background: #f7f5f2;
+      color: #333;
+    }
+    h1, h2 {
+      color: #6b4226;
+    }
+    a {
+      color: #6b4226;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    footer {
+      font-size: 0.9rem;
+      color: #777;
+      border-top: 1px solid #ddd;
+      padding-top: 1rem;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h1>Discord Bible Bot</h1>
+  <h2>Terms of Service</h2>
+  <section>
+    <p>Welcome to Discord Bible Bot ("the Bot"). By using the Bot, you agree to the following terms:</p>
+    <ul>
+      <li>The Bot provides Bible verses and answers based on publicly available APIs.</li>
+      <li>The Bot is provided "as is" without any warranties.</li>
+      <li>The Bot owner is not responsible for any inaccuracies or misinterpretations in the Bible content.</li>
+      <li>You agree to use the Bot respectfully and not for any harmful or illegal activities.</li>
+      <li>The Bot owner reserves the right to modify or discontinue the Bot at any time.</li>
+    </ul>
+  </section>
+
+  <h2>Privacy Policy</h2>
+  <section>
+    <p>Your privacy is important. This Bot collects minimal information:</p>
+    <ul>
+      <li>The Bot only accesses messages you send in Discord to respond to commands.</li>
+      <li>No personal data is stored or shared outside of what Discord provides.</li>
+      <li>The Bot does not sell or distribute any user data.</li>
+      <li>Any usage logs are used solely for debugging and improving the Bot.</li>
+      <li>Please refer to Discord’s own privacy policy for more details on data handling.</li>
+    </ul>
+  </section>
+
+  <footer>
+    &copy; 2025 Discord Bible Bot. All rights reserved.
+  </footer>
+</body>
+</html>
